@@ -29,7 +29,6 @@ func main() {
 	a.String()
 	// (&a).Modify(5)
 	a.Modify(5)
-
 	a.String()
 }
 
